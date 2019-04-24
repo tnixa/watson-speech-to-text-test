@@ -33,11 +33,7 @@
 			<artifactId>watson-spring-boot-starter</artifactId>
 			<version>0.1.0</version>
 		</dependency>
-		<dependency>
-			<groupId>io.pivotal.cfenv</groupId>
-			<artifactId>java-cfenv-boot</artifactId>
-			<version>1.0.0.RELEASE</version>
-		</dependency>		
+	
 	</dependencies>
 
 	<build>
