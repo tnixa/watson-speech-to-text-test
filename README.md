@@ -1,5 +1,5 @@
-## Test project for Watson Discovery on IBM Cloud using Spring Boot Starter
-Just a quick project to test a Watson Discovery service instance on IBM Cloud using Spring Boot Starter: https://github.com/watson-developer-cloud/spring-boot-starter. By default a "system" environment with its "news-en" collection can be queried. A test query will be sent and the results will be checked to see if the query appears in the results
+## Test project for Watson Speech to Text on IBM Cloud using Spring Boot Starter
+Just a quick project to test a Watson Speech to Text service instance on IBM Cloud using Spring Boot Starter: https://github.com/watson-developer-cloud/spring-boot-starter. A sample flac audio file will be transcribed.
 
 ## Setup
 1. You'll need ibm cloud CLI from https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use and bx cf installed and configured to talk to the appropriate cf org/spac etc.
